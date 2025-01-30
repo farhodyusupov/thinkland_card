@@ -21,3 +21,6 @@ Currently
 3. select color
 4. save custom card
 5. scale up and down the image
+
+Demo
+[demo.MP4](assets%2Fdemo.MP4)
