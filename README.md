@@ -23,4 +23,5 @@ Currently
 5. scale up and down the image
 
 Demo
-[demo.MP4](assets%2Fdemo.MP4)
+## Demo Video
+[Click here to watch the demo](https://github.com/farhodyusupov/thinkland_card/blob/1f97371593d5ad2ede8e107917b7c83e658dad4f/assets/demo.MP4)
